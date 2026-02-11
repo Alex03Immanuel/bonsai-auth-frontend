@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'https://bonsai-auth.onrender.com';
+const API_BASE_URL = 'https://bonsai-auth-backend.onrender.com';
 
 // DOM Elements
 const tabBtns = document.querySelectorAll('.tab-btn');
